@@ -1,9 +1,9 @@
 -i https://pypi.org/simple
 flask==2.0.0
-numpy==1.23.5
-tensorflow==2.11.0
+numpy==1.17.4
+tensorflow==1.15.2
 opencv-python-headless
-werkzeug==2.0
+werkzeug==0.16.0
 matplotlib==3.1.1
 gunicorn==19.5.0
 Pillow==6.0.0
